@@ -20,4 +20,15 @@ The yet-untested main idea is that the pre-feeder extrudes a tad more than the m
 
 <p align="center" width="100%"><img src="/images/fp_r1.jpg?raw=true" alt="The switch and spring mechanism" width="600px" /></p>
 
-The CAD is available here and [in OnShape](https://cad.onshape.com/documents/6f2557d9a5eb1b365c3bf8f4/w/888f8c00c1b7e363eace9395/e/1c5648967865eb9401f046b9)
+## Video of it working
+
+<div align="center" width="100%" markdown="1">
+
+  [![Short Video of both extruders extruding](http://img.youtube.com/vi/s7kXcfv4JuY/0.jpg)](https://youtube.com/shorts/s7kXcfv4JuY "Short Video of both extruders extruding")
+  
+
+</div>
+
+## CAD
+
+The CAD is available here as STEP and [in OnShape](https://cad.onshape.com/documents/6f2557d9a5eb1b365c3bf8f4/w/888f8c00c1b7e363eace9395/e/1c5648967865eb9401f046b9)
