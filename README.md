@@ -1,4 +1,4 @@
-# Filament "Pre-Extruder" for 3D-printesr
+# Filament "Pre-Extruder" for 3D-printers
 
 An open-source Klipper-enabled filament-pushing "pre-extruder". The idea is to overcome the friction in the reverse bowden and spool holder by pre-feeding the main extruder.
 
